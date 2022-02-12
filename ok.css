@@ -1,0 +1,34 @@
+#n{
+position: relative;
+left: 20px;
+}
+#dd{
+    width: 250px;
+    height: 150px;
+    position: relative;
+left: 20px;
+}
+#b{
+    background-color: rgb(201, 49, 49);
+    position: relative;
+    top:42px;
+    left: 20px;
+    color:whitesmoke;
+    
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+body{
+    background-color: antiquewhite;
+}
+#v{
+    width: 250px;;
+    height: 20px;
+    background-color: aqua;
+}
+.card{
+    width: 250px;
+    height: 140px;
+}

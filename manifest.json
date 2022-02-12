@@ -1,0 +1,16 @@
+ {
+     "name":"URL Shortner",
+     "version":"0.1",
+     "manifest_version":2,
+     "description":"Shortens the URL",
+     "browser_action":{
+         "default_popup":"popup.html"
+     },
+     "options_page":"options.html",
+
+     
+ 
+    "permissions": [
+        "storage"
+      ]
+ }

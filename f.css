@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    position: relative;
+    left: 200px;
+    top: 200px;
+}
+#b{
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+p{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
